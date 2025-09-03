@@ -1,5 +1,7 @@
-class Methods{
-	static void test(){
+class Methods
+{
+	static void test()
+	{
 		System.out.println("Executed the mrhtod");
 	}
 	public static void main(String[] args){
