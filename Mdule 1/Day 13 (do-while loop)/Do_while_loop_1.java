@@ -5,7 +5,7 @@ class Do_while_loop_1{
 		
 		do
 		{
-			System.out.println("java");
+			System.out.println("BTM");
 			a--;
 		}
 		while(a>0);
