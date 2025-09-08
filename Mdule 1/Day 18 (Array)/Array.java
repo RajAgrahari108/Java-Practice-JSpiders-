@@ -1,5 +1,5 @@
 class Array{
-	public static void main(String [] args){
+	publ	ic static void main(String [] args){
 		int[] arr = new int[5];
 		arr[0]=12;
 		arr[1]=15;
