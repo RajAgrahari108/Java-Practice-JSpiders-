@@ -9,7 +9,7 @@ class ArrSumOfEvenNum{
 			
 			
 		}
-				System.out.println("the sum of Array is : " + sum);
+				System.out.println("The sum of All even number is : " + sum);
 		
 	}
 }
